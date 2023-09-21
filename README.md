@@ -26,7 +26,7 @@
 ![Metrics](https://metrics.lecoq.io/James-N-Davis?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 
 ## 📬 Get in Touch
-- LinkedIn: [James Davis](https://www.linkedin.com/in/james-davis-a13b4378)
+- LinkedIn: [James Davis](https://www.linkedin.com/in/james-davis-mba-a13b4378/)
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
